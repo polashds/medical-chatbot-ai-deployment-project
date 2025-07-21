@@ -559,3 +559,5 @@ border-radius: 0 0 15px 15px !important;
 }
 
 >python app.py
+
+to add memory google search converstion buffer  memory or from dswithbappy how to add memory to chatbot
