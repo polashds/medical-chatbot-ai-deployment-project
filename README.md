@@ -4,7 +4,7 @@ A complete medical chatbot with LLMs, frontend, backend and LLMops
 Clone the repository
 
 ```bash
-git clonehttps://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+git clone https://github.com/polashds/medical-chatbot-ai-deployment-project.git
 ```
 
 ### STEP 01- Create a conda environment after opening the repository
